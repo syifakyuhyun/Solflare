@@ -97,3 +97,8 @@ Ensure correct permissions and use developer mode for manual installs.
 
 **Is Solflare safe?**
 Yes, Solflare is designed with robust security measures. Always download from official sources.
+
+## Read Also
+- [Exodus Wallet: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/exodus/blob/main/README.md)
+- [Ledger Live Desktop: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/Ledger_Live/blob/main/README.md)
+- [Trust Wallet: A Comprehensive Installation Guide](https://github.com/syifakyuhyun/trust_wallet/blob/main/README.md)
