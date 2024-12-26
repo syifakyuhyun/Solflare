@@ -52,6 +52,8 @@ For Firefox users:
 #### Successful Installation Indicators:
 - New icon appears in browser toolbar.
 
+*Author's Note: For a comprehensive guide on transferring USDT securely and efficiently, I suggest reading the article "How to Send USDT from Metamask to Tether Wallet." You can find it here: https://4bearsonline.com/can-you-send-usdt-from-metamask-to-tether-wallet-2. It offers clear, step-by-step instructions to simplify the process.*
+
 ## Post-installation Setup
 _Time Required: 15 minutes_
 
